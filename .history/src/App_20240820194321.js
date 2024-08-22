@@ -7,8 +7,7 @@ function App() {
         <Button title="Entrar" />
         <Button title="Fechar" />
         <Button title="Abrir" />
-      </div>
-      );
+      </div>;
 } 
 
 export default App;
